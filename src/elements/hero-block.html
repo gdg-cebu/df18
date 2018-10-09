@@ -22,17 +22,6 @@
         color: inherit;
       }
 
-      .hero-overlay {
-        background-color: rgba(0, 0, 0, 0.6);
-        opacity: 0;
-        transition: opacity 0.3s;
-        position: absolute;
-      }
-
-      .hero-overlay[show] {
-        opacity: 1;
-      }
-
       .hero-image {
         transition: background-color 0.3s;
         position: absolute;
@@ -87,7 +76,6 @@
         sizing="cover"
         lazy-load preload fade fit
       ></plastic-image>
-      <div class="hero-overlay" show$="[[_showOverlay(backgroundImage)]]" fit></div>
       <div class="container">
         <div class="hero-content">
           <slot></slot>
@@ -119,10 +107,6 @@
         return [
           '_setState(active, backgroundImage, backgroundColor, fontColor, hideLogo)',
         ];
-      }
-
-      _showOverlay(backgroundImage) {
-        return !!backgroundImage;
       }
 
       _setState(active, backgroundImage, backgroundColor, fontColor, hideLogo) {

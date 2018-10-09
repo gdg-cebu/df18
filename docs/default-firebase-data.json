@@ -59,7 +59,7 @@
   "notifications" : {
     "config" : {
       "icon" : "",
-      "timezone" : "+03:00"
+      "timezone" : "+08:00"
     },
     "messages" : { },
     "subscribers" : { },
@@ -1663,59 +1663,49 @@
   } ],
   "tickets" : [ {
     "available" : true,
-    "currency" : "$",
-    "ends" : "Oct 13",
-    "info" : "Requires valid student/lecturer ID",
-    "name" : "EDU",
-    "price" : 80,
+    "currency" : "₱",
+    "ends" : "Oct 27",
+    "info" : "",
+    "name" : "Barkada 4+1 Conference Passes Promo",
+    "price" : 400,
     "soldOut" : false,
-    "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : false,
-    "currency" : "$",
-    "ends" : "Mar 31",
-    "inDemand" : false,
-    "info" : "Or first 50 tickets",
-    "name" : "Pre Early Bird",
-    "price" : 100,
-    "regular" : true,
-    "soldOut" : true,
-    "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
+    "starts" : "Oct 1",
+    "url" : "https://www.eventbrite.com/e/devfest-x-bizfest-cebu-2018-into-the-future-registration-50588681107?aff=website#tickets"
   }, {
     "available" : true,
-    "currency" : "$",
-    "ends" : "Jun 30",
+    "currency" : "₱",
+    "ends" : "Oct 27",
+    "inDemand" : false,
+    "info" : "",
+    "name" : "DevFest Early Bird Conference Pass",
+    "price" : 500,
+    "soldOut" : false,
+    "starts" : "Oct 1",
+    "url" : "https://www.eventbrite.com/e/devfest-x-bizfest-cebu-2018-into-the-future-registration-50588681107?aff=website#tickets"
+  }, {
+    "available" : true,
+    "currency" : "₱",
+    "ends" : "Oct 27",
     "inDemand" : true,
-    "info" : "Or first 200 tickets",
-    "name" : "Early Bird",
-    "price" : 120,
+    "info" : "",
+    "name" : "DevFest Regular Conference Pass",
+    "price" : 700,
     "regular" : true,
     "soldOut" : false,
-    "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : false,
-    "currency" : "$",
-    "ends" : "Sep 30",
-    "inDemand" : false,
-    "info" : "Or first 350 tickets",
-    "name" : "Regular",
-    "price" : 160,
     "primary" : true,
-    "regular" : true,
-    "soldOut" : false,
-    "starts" : "Jul 1",
-    "url" : "https://2event.com/events/1027108"
+    "starts" : "Oct 1",
+    "url" : "https://www.eventbrite.com/e/devfest-x-bizfest-cebu-2018-into-the-future-registration-50588681107?aff=website#tickets"
   }, {
     "available" : true,
-    "currency" : "$",
-    "info" : "Money worth nothing when you love it",
-    "name" : "I Love DFUA",
-    "price" : 280,
+    "currency" : "₱",
+    "ends" : "Oct 27",
+    "inDemand" : false,
+    "info" : "For Entrepreneurs, Business Owners, SMEs",
+    "name" : "BizFest Conference Pass",
+    "price" : 0,
     "soldOut" : false,
-    "url" : "https://2event.com/events/1027108"
+    "starts" : "Oct 1",
+    "url" : "https://www.eventbrite.com/e/devfest-x-bizfest-cebu-2018-into-the-future-registration-50588681107?aff=website#tickets"
   } ],
   "triggers" : {
     "images" : false

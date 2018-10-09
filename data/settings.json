@@ -9,8 +9,8 @@
   "endDate": "2017-10-14T19:00:00+03:00",
   "webapp": {
     "shortName": "DevFest",
-    "themeColor": "#673AB7",
-    "backgroundColor": "#673AB7"
+    "themeColor": "#6962ad",
+    "backgroundColor": "#6962ad"
   },
   "dateFormat": {
     "locale": "en-US"
@@ -32,34 +32,16 @@
       "route": "schedule",
       "permalink": "/schedule/",
       "label": "Schedule"
-    },
-    {
-      "route": "team",
-      "permalink": "/team/",
-      "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
     }
   ],
   "heroSettings": {
     "home": {
       "description": "Be a hero. Be a GDG!",
       "background": {
-        "color": "#673ab7",
-        "image": "/images/backgrounds/home.jpg"
+        "color": "#6962ad",
+        "image": "/images/banner-image.jpg"
       },
       "fontColor": "#FFF"
-    },
-    "blog": {
-      "title": "Blog",
-      "metaDescription": "Read stories from our team",
-      "background": {
-        "color": "#FFF"
-      },
-      "fontColor": "#424242"
     },
     "speakers": {
       "title": "Speakers",
@@ -113,20 +95,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "Summit Galleria Cebu",
+    "city": "Cebu City",
+    "short": "Cebu City, Philippines",
+    "address": "B. Benedicto St, Cebu City, Cebu, Philippines",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 5
+      "latitude": 10.3052438,
+      "longitude": 123.9109513,
+      "zoom": 15
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 10.3051594,
+      "longitude": 123.9000508
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Summit Galleria Cebu, the flagship hotel of Summit Hotels and Resorts, is the epitome of artistic and urban contemporary design."
   },
   "mediaQueries": {
     "xs": {
@@ -148,23 +130,19 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/GDGCebu/events/253369852/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/gdgcebuorg/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "https://twitter.com/gdgcebu"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
-      },
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.instagram.com/gdgcebu/"
       }
     ],
     "share": [
@@ -182,7 +160,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "gdgcebulead@gmail.com",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
@@ -225,7 +203,7 @@
       "itemsCount": 6
     },
     "tickets": {
-      "itemsCount": 5
+      "itemsCount": 4
     }
   }
 }
