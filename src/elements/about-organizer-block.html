@@ -81,10 +81,12 @@
             target="_blank" rel="noopener noreferrer"
             {% endif %}
           >
+            {% if block.callToAction %}
             <paper-button class="cta-button animated icon-right">
               <span>{$ block.callToAction.label $}</span>
               <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
             </paper-button>
+            {% endif %}
           </a>
         </div>
         {% endfor %}

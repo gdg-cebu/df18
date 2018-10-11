@@ -54,11 +54,6 @@
           "name": "Google Business Group",
           "url": "https://developers.google.com/programs/gbg/",
           "newTab": true
-        },
-        {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdgcebu.org/team/",
-          "newTab": true
         }
       ]
     },
@@ -250,11 +245,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='https://gdgcebu.org/' target='_blank'>GDG Cebu</a> and <a href='https://www.facebook.com/GBGCebu/' target='_blank'>GDG Cebu</a> with support of other local tech communities around Cebu are the proud organizers of DevFest x BizFest 2018",
-        "callToAction": {
-          "label": "Open team page",
-          "link": "/team"
-        }
+        "description": "<a href='https://gdgcebu.org/' target='_blank'>GDG Cebu</a> and <a href='https://www.facebook.com/GBGCebu/' target='_blank'>GDG Cebu</a> with support of other local tech communities around Cebu are the proud organizers of DevFest x BizFest 2018"
       },
       {
         "title": "What is GDG?",
