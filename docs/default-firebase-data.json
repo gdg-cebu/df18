@@ -47,14 +47,14 @@
     }
   },
   "gallery" : [
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4185.jpg?alt=media&token=ff3fd161-3d68-401a-90cd-74b90bd2a4d8",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4411.jpg?alt=media&token=7fda0d66-a631-4816-bd85-b93ef49ed3a6",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4577.jpg?alt=media&token=f14205b5-be75-447c-8bca-73a15ca2df41",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4525.jpg?alt=media&token=0428f0e3-fda0-4119-8249-69f98e936ce5",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4611.jpg?alt=media&token=b080143c-161c-4d9f-96f3-ebb6bdcdfd95",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4720.jpg?alt=media&token=75de0c2d-8bd9-48bb-9117-1349c9bc381f",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4646.jpg?alt=media&token=eafb0320-6f21-47bc-8ba4-8eec708f2076",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_5294.jpg?alt=media&token=72ab5141-d21b-4e71-a58b-faa2b00d1d02"
+    "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/gallery%2FDSC_8507.NEF.jpg?alt=media&token=6780ce91-e78e-4c22-be7b-cc4bd89a5abd",
+    "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/gallery%2FDevFest.jpg?alt=media&token=100f0bea-43c8-4dd9-8a99-2568640e5bf3",
+    "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/gallery%2FDSC_8624.JPG?alt=media&token=7a6d0fa7-e54e-4c63-9f5b-67eb4b997185",
+    "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/gallery%2Fdevfest2.jpg?alt=media&token=c309ba19-9af5-4c67-920f-c4192ab6b4bb",
+    "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/gallery%2FIMG_8386.jpg?alt=media&token=014d7c88-ed20-43f9-9352-5ac53a8e0d5a",
+    "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/gallery%2FIMG_7033.jpg?alt=media&token=b83f0a24-150f-4bcc-b299-f7d78c8b5d4a",
+    "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/gallery%2FIMG_8367.jpg?alt=media&token=0e98a467-122d-49ab-8ab0-fd4b72a28ea4",
+    "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/gallery%2FDSC_8674.JPG?alt=media&token=20d04f48-6107-40f6-9f81-6a0c08e766b8"
   ],
   "notifications" : {
     "config" : {
@@ -84,6 +84,124 @@
     } ],
     "order" : 1,
     "title" : "General Partner"
+  }, {
+    "logos" : [ {
+      "order" : 0,
+      "logoUrl" : "../images/logos/gdg-cebu.png",
+      "name" : "GDG Cebu",
+      "url" : "https://gdgcebu.org/"
+    }, {
+      "order" : 1,
+      "logoUrl" : "../images/logos/gbg-cebu.png",
+      "name" : "GBG Cebu",
+      "url" : "https://www.facebook.com/GBGCebu/"
+    } ],
+    "order" : 2,
+    "title" : "Organized by"
+  }, {
+    "logos" : [ {
+      "order" : 0,
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/partners%2FAcc_Logo_Full_Black.png?alt=media&token=1a93de6d-77ba-48d5-a25b-fa7962ca1bb5",
+      "name" : "Accenture",
+      "url" : "https://www.accenture.com/ph-en/careers"
+    } ],
+    "order" : 3,
+    "title" : "Presented by"
+  }, {
+    "logos" : [ {
+      "order" : 0,
+      "logoUrl" : "../images/logos/pldt-innolab.png",
+      "name" : "PLDT Innolab",
+      "url" : "https://www.facebook.com/PLDTInnolab/"
+    } ],
+    "order" : 4,
+    "title" : "Co-presented by"
+  }, {
+    "logos" : [ {
+      "order" : 0,
+      "logoUrl" : "../images/logos/dti-cebu.jpg",
+      "name" : "DTI Cebu",
+      "url" : "https://www.dti.gov.ph/region7"
+    } ],
+    "order" : 5,
+    "title" : "In collaboration with"
+  }, {
+    "logos" : [ {
+      "order" : 0,
+      "logoUrl" : "../images/logos/inspire-team.png",
+      "name" : "Inspire Team",
+      "url" : "https://www.inspireteam.com/"
+    }, {
+      "order" : 1,
+      "logoUrl" : "../images/logos/symph.png",
+      "name" : "Symph",
+      "url" : "https://www.sym.ph/"
+    } ],
+    "order" : 6,
+    "title" : "Bronze sponsors"
+  }, {
+    "logos" : [ {
+      "order" : 0,
+      "logoUrl" : "../images/logos/devcon-cebu.png",
+      "name" : "DevCon Cebu",
+      "url" : "https://www.facebook.com/DevConCebu/"
+    }, {
+      "order" : 1,
+      "logoUrl" : "../images/logos/html-cebu.png",
+      "name" : "HTML Cebu",
+      "url" : ""
+    }, {
+      "order" : 2,
+      "logoUrl" : "../images/logos/uvns.png",
+      "name" : "UVNS",
+      "url" : "https://www.facebook.com/uvnewschool/"
+    }, {
+      "order" : 3,
+      "logoUrl" : "../images/logos/laravel-cebu.png",
+      "name" : "Laravel Cebu",
+      "url" : "https://www.facebook.com/laravelcebu/"
+    }, {
+      "order" : 4,
+      "logoUrl" : "../images/logos/wordpress-cebu.png",
+      "name" : "Wordpress Cebu",
+      "url" : ""
+    } ],
+    "order" : 7,
+    "title" : "Community partners"
+  }, {
+    "logos" : [ {
+      "order" : 0,
+      "logoUrl" : "../images/logos/istorya-net.jpg",
+      "name" : "Istorya.net",
+      "url" : "https://www.istorya.net/"
+    }, {
+      "order" : 1,
+      "logoUrl" : "../images/logos/thirdteam-media.png",
+      "name" : "Thirdteam Media",
+      "url" : "https://thirdteam.org/"
+    }, {
+      "order" : 2,
+      "logoUrl" : "../images/logos/inquirer-net.png",
+      "name" : "Inquirer.net",
+      "url" : "https://www.inquirer.net/"
+    }, {
+      "order" : 3,
+      "logoUrl" : "../images/logos/cebu-daily-news.jpg",
+      "name" : "Cebu Daily News",
+      "url" : "https://cebudailynews.inquirer.net/"
+    }, {
+      "order" : 4,
+      "logoUrl" : "../images/logos/basta-bisaya.png",
+      "name" : "Basta Bisaya",
+      "url" : "https://bastabisaya.com/"
+    }, {
+      "order" : 5,
+      "logoUrl" : "../images/logos/halo-halo-radio.png",
+      "name" : "Halo-Halo Radio",
+      "url" : "http://halohaloradiocebu.viva.ph/"
+    } ],
+    "order" : 8,
+    "title" : "Media partners"
   } ],
   "schedule" : {
     "2018-10-27" : {
@@ -860,6 +978,16 @@
     "title" : "Program Committee"
   } ],
   "tickets" : [ {
+    "available" : false,
+    "currency" : "₱",
+    "ends" : "Oct 1",
+    "info" : "",
+    "name" : "DevFest Super Early Bird Conference Pass",
+    "price" : 400,
+    "soldOut" : true,
+    "starts" : "Sept 24",
+    "url" : "https://www.eventbrite.com/e/devfest-x-bizfest-cebu-2018-into-the-future-registration-50588681107?aff=website#tickets"
+  }, {
     "available" : true,
     "currency" : "₱",
     "ends" : "Oct 27",
