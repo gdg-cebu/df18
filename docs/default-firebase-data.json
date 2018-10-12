@@ -472,7 +472,7 @@
   },
   "speakers" : {
     "divon_lan" : {
-      "bio" : "",
+      "bio" : "Divon Lan is the Managing Director of Black Paw Ventures, a startup foundry focused on emerging markets. At Black Paw Ventures, Divon focuses on building and/or supporting startup teams, based in developing countries in Asia and Africa, focused on internationally-scalable, mass-market mobile applications.<br><br>Divon is also a co-founder at YYY Technology, the first startup created within the framework of Black Paw Ventures, which is focused on solving visibility, equity and productivity issues in blue collar labor markets in developing countries.<br><br>From 2007 to 2016, Divon was with Google where he was responsible for Frontier Markets and focused on extending Google's infrastructure, products and programs to reach people in developing countries throughout Asia and Africa, on the one hand, and on the other hand he worked on the ground in 50+ developing countries to help grow and empower the local technology communities in these countries.<br><br>Prior to Google, Divon was the founder and CEO of a technology startup in Silicon Valley and Israel.<br><br>Divon holds an MBA from the University of Pennsylvania - Wharton and a B.Sc. in Computer Science from the Technion Israel institute of technology.<br><br>Divon resides in Phnom Penh, Cambodia.",
       "company" : "BlackPaw Ventures",
       "companyLogo" : "/images/logos/blackpaw-ventures.jpg",
       "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Fblackpaw-ventures.jpg?alt=media&token=33011a7c-60d4-46b8-a77d-66f7a78df2bf",
@@ -481,7 +481,7 @@
       "name" : "Divon Lan",
       "photo" : "/images/people/divon-lan.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fdivon-lan.jpg?alt=media&token=7af12b29-d07e-475d-9429-9ab84dd19013",
-      "shortBio" : "",
+      "shortBio" : "Divon Lan is the Managing Director of Black Paw Ventures, a startup foundry focused on emerging markets.",
       "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/divonlan/",
@@ -603,7 +603,7 @@
       "title" : "Frontend Web Developer"
     },
     "johnny_benitez" : {
-      "bio" : "",
+      "bio" : "Johnny is a Google Cloud Solutions Specialist at Google.",
       "company" : "Google",
       "companyLogo" : "/images/logos/google.svg",
       "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Fgoogle.svg?alt=media&token=02a2f77f-061d-4aaa-a3c8-c82cf4ac04dd",
@@ -612,7 +612,7 @@
       "name" : "Johnny Benitez",
       "photo" : "/images/people/johnny-benitez.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fjohnny-benitez.jpg?alt=media&token=55e43e08-d3fa-46bf-9a87-822d5291597e",
-      "shortBio" : "",
+      "shortBio" : "Johnny is a Google Cloud Solutions Specialist at Google.",
       "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/johnny-benitez-7a2347/",
@@ -622,7 +622,7 @@
       "title" : "Google Cloud Solutions Specialist"
     },
     "julius_uy" : {
-      "bio" : "",
+      "bio" : "Julius leads the Mobile Apps and TV engineering teams in Rakuten Viki. His team works on various projects such as on Siri, Apple TV, Android TV, Roku, Android Instant Apps, Google Home, Chromecast, Chromebooks, and Smart Displays. Their work was featured on Google I/O, WWDC, Android Developer Story, Editor's Choice, Android Excellence, and in several news sites and tech blogs.",
       "company" : "Rakuten Viki",
       "companyLogo" : "/images/logos/rakuten-viki.png",
       "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Frakuten-viki.png?alt=media&token=babe30c3-a35b-4706-8812-3c763d857a08",
@@ -631,7 +631,7 @@
       "name" : "Julius Uy",
       "photo" : "/images/people/julius-uy.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fjulius-uy.jpg?alt=media&token=c7531602-c533-4adb-b5d0-411dd694569f",
-      "shortBio" : "",
+      "shortBio" : "Julius leads the Mobile Apps and TV engineering teams in Rakuten Viki.",
       "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/uyjulius/",
@@ -745,7 +745,7 @@
       "title" : "Principal"
     },
     "gerb_inajada" : {
-      "bio" : "",
+      "bio" : "In spite of having a background in information technology, Gerb has spent almost a decade in the banking industry. He’s rapidly worked his way through the ranks after having joined UnionBank of the Philippine’s Business Solutions Development unit in 2009. Along the way, he has had extensive experience in developing and managing products that catered to top corporates and retail clients of the bank. <br><br>Presently an Assistant Vice President, the bank’s Blockchain Development Lead, and the head of UnionBank’s Blockchain Center of Excellence, Gerb manages and supports the bank’s blockchain innovations portfolio.",
       "company" : "Unionbank",
       "companyLogo" : "/images/logos/unionbank.jpg",
       "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Funionbank.jpg?alt=media&token=89798732-ed91-4da3-9b91-8b2aa2b32953",
@@ -754,7 +754,7 @@
       "name" : "Gerb Inajada",
       "photo" : "/images/people/gerb-inajada.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fgerb-inajada.jpg?alt=media&token=ed857202-4b36-4243-948d-3bbc4fb98aa0",
-      "shortBio" : "",
+      "shortBio" : "Gerb has spent almost a decade in the banking industry in spite of having a background in information technology.",
       "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/gerbinajada/",
