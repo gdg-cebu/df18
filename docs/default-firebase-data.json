@@ -471,6 +471,29 @@
     }
   },
   "speakers" : {
+    "yohan_totting": {
+      "bio" : "Developer advocate of web. Urban cyclist and community enthusiast.",
+      "company" : "Google",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Fgoogle.svg?alt=media&token=02a2f77f-061d-4aaa-a3c8-c82cf4ac04dd",
+      "country" : "Indonesia",
+      "featured" : true,
+      "name" : "Yohan Totting",
+      "photo" : "/images/people/yohan-totting.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fyohan-totting.jpg?alt=media&token=143183fe-1e8c-4f53-979b-7f0dbe3f9779",
+      "shortBio" : "Developer advocate of web. Urban cyclist and community enthusiast.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/tyohan/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/tyohan",
+        "name" : "Twitter"
+      } ],
+      "order" : 0,
+      "title" : "Developer Advocate, Web Developer Relations"
+    },
     "divon_lan" : {
       "bio" : "Divon Lan is the Managing Director of Black Paw Ventures, a startup foundry focused on emerging markets. At Black Paw Ventures, Divon focuses on building and/or supporting startup teams, based in developing countries in Asia and Africa, focused on internationally-scalable, mass-market mobile applications.<br><br>Divon is also a co-founder at YYY Technology, the first startup created within the framework of Black Paw Ventures, which is focused on solving visibility, equity and productivity issues in blue collar labor markets in developing countries.<br><br>From 2007 to 2016, Divon was with Google where he was responsible for Frontier Markets and focused on extending Google's infrastructure, products and programs to reach people in developing countries throughout Asia and Africa, on the one hand, and on the other hand he worked on the ground in 50+ developing countries to help grow and empower the local technology communities in these countries.<br><br>Prior to Google, Divon was the founder and CEO of a technology startup in Silicon Valley and Israel.<br><br>Divon holds an MBA from the University of Pennsylvania - Wharton and a B.Sc. in Computer Science from the Technion Israel institute of technology.<br><br>Divon resides in Phnom Penh, Cambodia.",
       "company" : "BlackPaw Ventures",
@@ -487,7 +510,7 @@
         "link" : "https://www.linkedin.com/in/divonlan/",
         "name" : "LinkedIn"
       } ],
-      "order" : 0,
+      "order" : 1,
       "title" : "Managing Director"
     },
     "albert_padin" : {
@@ -523,7 +546,7 @@
         "link" : "https://plus.google.com/110932426733785443586",
         "name" : "Google+"
       } ],
-      "order" : 1,
+      "order" : 2,
       "title" : "Co-Founder and CTO"
     },
     "henry_lim" : {
@@ -563,44 +586,8 @@
         "link" : "https://limhenry.xyz/",
         "name" : "Blog"
       } ],
-      "order" : 2,
-      "title" : "Frontend Developer"
-    },
-    "toni_jan_montserrat" : {
-      "badges" : [ {
-        "description" : "Google Developers Expert",
-        "link" : "https://developers.google.com/experts/people/toni-jan-keith-monserrat",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group Philippines",
-        "link" : "https://www.gdgph.org/",
-        "name" : "gdg"
-      } ],
-      "bio" : "TJ is a researcher who focuses on Human Computer Interaction field, working on research in Pedagogy and Technology in Interactive Platforms on Learning. He volunteers his time and expertise to various organizations such as Google Developer Group Philippines, User Experience Philippines, Philippine Web Designers Organization, and ACM Special Interest Group on Computer-Human Interaction. He loves to experiment with creating smaller sized, offline-ready web apps using web components. His love for performance as part of design makes hom love his mission to help others do performant-ready webapps and bake into them performance-ready patterns into their design toolset.",
-      "company" : "UPLB",
-      "companyLogo" : "/images/logos/up.png",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Fup.png?alt=media&token=71348d02-f2aa-44b8-aaa5-4e4451fb1a61",
-      "country" : "Manila, Philippines",
-      "featured" : true,
-      "name" : "Toni-Jan Keith Montserrat",
-      "photo" : "/images/people/toni-jan-montserrat.png",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Ftoni-jan-montserrat.png?alt=media&token=82918129-4634-46b7-837f-839887cba6e8",
-      "shortBio" : "TJ is a researcher who focuses on Human Computer Interaction field, working on research in Pedagogy and Technology in Interactive Platforms on Learning.",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/106755551521071658037",
-        "name" : "Google+"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/tjmonsi",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/toni-jan-keith-monserrat-42975341/",
-        "name" : "LinkedIn"
-      } ],
       "order" : 3,
-      "title" : "Frontend Web Developer"
+      "title" : "Frontend Developer"
     },
     "johnny_benitez" : {
       "bio" : "Johnny is a Google Cloud Solutions Specialist at Google.",
