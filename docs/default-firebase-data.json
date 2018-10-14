@@ -127,6 +127,11 @@
       "logoUrl" : "../images/logos/symph.png",
       "name" : "Symph",
       "url" : "https://www.sym.ph/"
+    }, {
+      "order" : 2,
+      "logoUrl" : "../images/logos/unionbank.png",
+      "name" : "UnionBank",
+      "url" : "https://www.unionbankph.com/"
     } ],
     "order" : 6,
     "title" : "Bronze sponsors"
@@ -734,8 +739,8 @@
     "gerb_inajada" : {
       "bio" : "In spite of having a background in information technology, Gerb has spent almost a decade in the banking industry. He’s rapidly worked his way through the ranks after having joined UnionBank of the Philippine’s Business Solutions Development unit in 2009. Along the way, he has had extensive experience in developing and managing products that catered to top corporates and retail clients of the bank. <br><br>Presently an Assistant Vice President, the bank’s Blockchain Development Lead, and the head of UnionBank’s Blockchain Center of Excellence, Gerb manages and supports the bank’s blockchain innovations portfolio.",
       "company" : "Unionbank",
-      "companyLogo" : "/images/logos/unionbank.jpg",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Funionbank.jpg?alt=media&token=89798732-ed91-4da3-9b91-8b2aa2b32953",
+      "companyLogo" : "/images/logos/unionbank.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Funionbank.png?alt=media&token=00fbc277-a3e3-44c1-a963-60ff029e4497",
       "country" : "Manila, Philippines",
       "featured" : true,
       "name" : "Gerb Inajada",
