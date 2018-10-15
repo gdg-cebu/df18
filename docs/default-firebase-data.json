@@ -823,7 +823,7 @@
       "featured" : true,
       "name" : "Nep Cruz",
       "photo" : "/images/people/nep-cruz.jpg",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fnep_cruz.png?alt=media&token=2f5e6d71-e8ca-491b-9695-bcbcbc9ef72e",
       "shortBio" : "ATCP Blockchain Lead and Financial Services Managing Director, Accenture",
       "socials" : [ ],
       "order" : 11,
@@ -838,7 +838,7 @@
       "featured" : true,
       "name" : "Arvin Yason",
       "photo" : "/images/people/arvin-yason.jpg",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Farvin-yason.png?alt=media&token=c84fae42-43fd-4ba4-8ec6-f384bc2f689c",
       "shortBio" : "Intelligent Software Engineering Services Lead, ATCP and Liquid Studio in Manila, Managing Director",
       "socials" : [ {
         "icon" : "linkedin",
