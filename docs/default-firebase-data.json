@@ -204,6 +204,21 @@
       "logoUrl" : "../images/logos/halo-halo-radio.png",
       "name" : "Halo-Halo Radio",
       "url" : "http://halohaloradiocebu.viva.ph/"
+    }, {
+      "order" : 6,
+      "logoUrl" : "../images/logos/cebu-finest.png",
+      "name" : "Cebu Finest",
+      "url" : "https://cebufinest.com/"
+    }, {
+      "order" : 7,
+      "logoUrl" : "../images/logos/cebu-tech-guide.jpg",
+      "name" : "Cebu Tech Guide",
+      "url" : "https://cebutechguide.com/"
+    }, {
+      "order" : 8,
+      "logoUrl" : "../images/logos/utterly-random-techie.png",
+      "name" : "Utterly Random Techie",
+      "url" : "https://www.utterlyrandomtechie.com/"
     } ],
     "order" : 9,
     "title" : "Media partners"
@@ -482,6 +497,22 @@
       "speakers" : [ "sam_witteveen", "martin_andrews" ],
       "tags" : [ "Machine Learning" ],
       "title" : "Machine Learning and Deep Learning"
+    },
+    "121" : {
+      "complexity" : "Intermediate",
+      "description" : "",
+      "language" : "English",
+      "speakers" : [ "nep_cruz" ],
+      "tags" : [ ],
+      "title" : "Let's talk about Blockchains"
+    },
+    "122" : {
+      "complexity" : "Intermediate",
+      "description" : "",
+      "language" : "English",
+      "speakers" : [ "arvin_yason" ],
+      "tags" : [ ],
+      "title" : "Disrupting Technology: Key Learnings from the Accenture Liquid Studio Network"
     }
   },
   "speakers" : {
@@ -782,6 +813,40 @@
       } ],
       "order" : 10,
       "title" : "Executive Creative Director"
+    },
+    "nep_cruz" : {
+      "bio" : "ATCP Blockchain Lead and Financial Services Managing Director, Accenture",
+      "company" : "Accenture",
+      "companyLogo" : "/images/logos/accenture.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/partners%2FAcc_Logo_Full_Black.png?alt=media&token=1a93de6d-77ba-48d5-a25b-fa7962ca1bb5",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Nep Cruz",
+      "photo" : "/images/people/nep-cruz.jpg",
+      "photoUrl" : "",
+      "shortBio" : "ATCP Blockchain Lead and Financial Services Managing Director, Accenture",
+      "socials" : [ ],
+      "order" : 11,
+      "title" : "ATCP Blockchain Lead and Financial Services Managing Director"
+    },
+    "arvin_yason" : {
+      "bio" : "Intelligent Software Engineering Services Lead, ATCP and Liquid Studio in Manila, Managing Director",
+      "company" : "Accenture",
+      "companyLogo" : "/images/logos/accenture.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/partners%2FAcc_Logo_Full_Black.png?alt=media&token=1a93de6d-77ba-48d5-a25b-fa7962ca1bb5",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Arvin Yason",
+      "photo" : "/images/people/arvin-yason.jpg",
+      "photoUrl" : "",
+      "shortBio" : "Intelligent Software Engineering Services Lead, ATCP and Liquid Studio in Manila, Managing Director",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/arvin-yason-1679956/",
+        "name" : "LinkedIn"
+      } ],
+      "order" : 12,
+      "title" : "Intelligent Software Engineering Services Lead"
     }
   },
   "team" : [ {
