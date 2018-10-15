@@ -138,6 +138,15 @@
   }, {
     "logos" : [ {
       "order" : 0,
+      "logoUrl" : "../images/logos/kyocera.png",
+      "name" : "Kyocera Document Solutions Development Philippines, Inc.",
+      "url" : "https://www.kyoceradocumentsolutions.com/"
+    } ],
+    "order" : 7,
+    "title" : "Amazing Supporter"
+  }, {
+    "logos" : [ {
+      "order" : 0,
       "logoUrl" : "../images/logos/devcon-cebu.png",
       "name" : "DevCon Cebu",
       "url" : "https://www.facebook.com/DevConCebu/"
@@ -162,7 +171,7 @@
       "name" : "Wordpress Cebu",
       "url" : ""
     } ],
-    "order" : 7,
+    "order" : 8,
     "title" : "Community partners"
   }, {
     "logos" : [ {
@@ -196,7 +205,7 @@
       "name" : "Halo-Halo Radio",
       "url" : "http://halohaloradiocebu.viva.ph/"
     } ],
-    "order" : 8,
+    "order" : 9,
     "title" : "Media partners"
   } ],
   "schedule" : {
