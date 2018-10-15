@@ -132,7 +132,19 @@
 
   <script src="bower_components/webcomponentsjs/webcomponents-loader.js"></script>
   <link rel="import" href="src/hoverboard-app.html">
-  <script src="scripts/service-worker-registration.js" async defer></script>
+  <!-- <script src="scripts/service-worker-registration.js" async defer></script> -->
+  <script defer>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.getRegistrations().then(function (registrations) {
+        for (let registration of registrations) {
+          registration.unregister();
+        }
+      }).catch(function (err) {
+        // eslint-disable-next-line no-console
+        console.log('Service Worker unregistration failed: ', err);
+      });
+    }
+  </script>
 
   <style>
 
