@@ -141,9 +141,23 @@
       "logoUrl" : "../images/logos/kyocera.png",
       "name" : "Kyocera Document Solutions Development Philippines, Inc.",
       "url" : "https://www.kyoceradocumentsolutions.com/"
+    }, {
+      "order" : 1,
+      "logoUrl" : "../images/logos/bubble-tea-station.jpg",
+      "name" : "Bubble Tea Station",
+      "url" : "https://www.facebook.com/bubbleteastation/"
     } ],
     "order" : 7,
     "title" : "Amazing Supporter"
+  }, {
+    "logos" : [ {
+      "order" : 0,
+      "logoUrl" : "../images/logos/pr-works.jpg",
+      "name" : "PR Works",
+      "url" : "http://prworksph.com/"
+    } ],
+    "order" : 8,
+    "title" : "PR Partner"
   }, {
     "logos" : [ {
       "order" : 0,
@@ -171,7 +185,7 @@
       "name" : "Wordpress Cebu",
       "url" : ""
     } ],
-    "order" : 8,
+    "order" : 9,
     "title" : "Community partners"
   }, {
     "logos" : [ {
@@ -220,7 +234,7 @@
       "name" : "Utterly Random Techie",
       "url" : "https://www.utterlyrandomtechie.com/"
     } ],
-    "order" : 9,
+    "order" : 10,
     "title" : "Media partners"
   } ],
   "schedule" : {
