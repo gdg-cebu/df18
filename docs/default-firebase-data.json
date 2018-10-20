@@ -531,7 +531,7 @@
   },
   "speakers" : {
     "yohan_totting": {
-      "bio" : "Developer advocate of web. Urban cyclist and community enthusiast.",
+      "bio" : "Yohan is part of Web Developer Relations team in Google who advocating modern web experiences and support the web developers to build it. Focus on web performance, web component, and UX on web to build a better web experiences.",
       "company" : "Google",
       "companyLogo" : "/images/logos/google.svg",
       "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Fgoogle.svg?alt=media&token=02a2f77f-061d-4aaa-a3c8-c82cf4ac04dd",
@@ -539,7 +539,7 @@
       "featured" : true,
       "name" : "Yohan Totting",
       "photo" : "/images/people/yohan-totting.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fyohan-totting.jpg?alt=media&token=143183fe-1e8c-4f53-979b-7f0dbe3f9779",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fyohan-totting.jpg?alt=media&token=f8a5b828-0081-41d1-8b04-962f80b008a0",
       "shortBio" : "Developer advocate of web. Urban cyclist and community enthusiast.",
       "socials" : [ {
         "icon" : "linkedin",
@@ -562,7 +562,7 @@
       "featured" : true,
       "name" : "Divon Lan",
       "photo" : "/images/people/divon-lan.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fdivon-lan.jpg?alt=media&token=7af12b29-d07e-475d-9429-9ab84dd19013",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fdivon-lan.png?alt=media&token=027704fb-3e15-4c2c-9d95-ea8c27868a2e",
       "shortBio" : "Divon Lan is the Managing Director of Black Paw Ventures, a startup foundry focused on emerging markets.",
       "socials" : [ {
         "icon" : "linkedin",
@@ -586,7 +586,7 @@
       "featured" : true,
       "name" : "Albert Padin",
       "photo" : "/images/people/albert-padin.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Falbert-padin.jpg?alt=media&token=8dcbd279-e232-498f-bbe7-2a514b41e5d9",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Falbert-padin.jpg?alt=media&token=0b392dc2-5862-4587-ab02-f6dd84d0d9bc",
       "shortBio" : "Albert is a developer and entrepreneur who's worked on consumer, enterprise, and government software products. He is the co-founder and CTO of Symph, a design, development, and startup studio.",
       "socials" : [ {
         "icon" : "twitter",
@@ -626,7 +626,7 @@
       "featured" : true,
       "name" : "Henry Lim",
       "photo" : "/images/people/henry-lim.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fhenry-lim.jpg?alt=media&token=e979dc8c-21ad-48d4-ac26-e8e3f8d150dd",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fhenry-lim.jpg?alt=media&token=24d1e3ec-e185-4f62-a9d4-3674f193df5b",
       "shortBio" : "Henry is a front-end web developer from Kuala Lumpur. He’s also a community co-organizer of Google Developer Group Kuala Lumpur.",
       "socials" : [ {
         "icon" : "gplus",
@@ -700,7 +700,7 @@
       "featured" : true,
       "name" : "Hassan Abid",
       "photo" : "/images/people/hassan-abid.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fhassan-abid.jpg?alt=media&token=4b8f7ba2-d3b9-4a7f-af20-80e63104ba47",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fhassan-abid.jpg?alt=media&token=66209375-a4ff-431c-81d4-5e2c31ca5da0",
       "shortBio" : "Hassan is a passionate Software Engineer with several years of experience in Android and Web development.",
       "socials" : [ {
         "icon" : "linkedin",
@@ -799,7 +799,7 @@
       "featured" : true,
       "name" : "Gerb Inajada",
       "photo" : "/images/people/gerb-inajada.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fgerb-inajada.jpg?alt=media&token=ed857202-4b36-4243-948d-3bbc4fb98aa0",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fgerb-inajada.png?alt=media&token=d7792759-c1cc-4929-9c9b-827361f5e27b",
       "shortBio" : "Gerb has spent almost a decade in the banking industry in spite of having a background in information technology.",
       "socials" : [ {
         "icon" : "linkedin",
@@ -861,6 +861,224 @@
       } ],
       "order" : 12,
       "title" : "Intelligent Software Engineering Services Lead"
+    },
+    "ashley_uy" : {
+      "bio" : "Ashley is a Cebu-based community builder working as a Project Manager at Symph. Her passion is to help develop the Philippines’ startup ecosystem by working with the Philippine tech startup and design community. She documents her thoughts about community building on her blog: www.ashleyuy.com",
+      "company" : "Symph",
+      "companyLogo" : "/images/logos/symph.svg",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Fsymph.svg?alt=media&token=215286e6-028a-4b1a-a6d0-7d0949289258",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Ashley Uy",
+      "photo" : "/images/people/ashley-uy.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fashley-uy.jpg?alt=media&token=a7b6ecab-cef0-4ecc-b714-2ddda37ea7d3",
+      "shortBio" : "Ashley is a Cebu-based community builder working as a Project Manager at Symph.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/mashleyuy/",
+        "name" : "LinkedIn"
+      } ],
+      "order" : 13,
+      "title" : "Project Manager"
+    },
+    "brian_padilla" : {
+      "bio" : "A highly experienced marketing executive with 7 years of professional experience in the fields of Pay Per Click Advertising for small and medium enterprises in various industries.<br><br>Google Ads Certified Partner (Search, Display, Shopping, Video & Mobile Networks). Google Analytics Certified Partner. Digital Marketing Trainer of the Department of Information and Communications Technology. Digital Marketing Trainer & Partner of PTB Digital Training Hub. Chief Marketing Officer & Partner of Cebu Digital Hub.",
+      "company" : "",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Brian Padilla",
+      "photo" : "/images/people/brian-padilla",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fbrian-padilla.jpg?alt=media&token=ed64fc02-651c-4bf1-95ea-3ea2fd0823b0",
+      "shortBio" : "A highly experienced marketing executive with 7 years of professional experience in the fields of Pay Per Click Advertising for small and medium enterprises in various industries.",
+      "order" : 14,
+      "title" : ""
+    },
+    "bryan_yap" : {
+      "bio" : "Bryan is the CEO of Republiq Group of Companies (RGC). A full-service Digital Transformation Agency that approach challenges with passion, creativity, collaboration and strategic thinking. They also got the end-to-end service covered from market research, strategy, online marketing execution, web and mobile tech solutions, design, content production and analytics under one roof.",
+      "company" : "Republiq Group of Companies",
+      "companyLogo" : "/images/logos/rgc.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Frgc.png?alt=media&token=d58fcbb4-8dca-4589-b927-715d51cb287b",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Bryan Yap",
+      "photo" : "/images/people/bryan-yap.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fbryan-yap.jpg?alt=media&token=5f0620eb-e419-4142-af92-8ddf238e895d",
+      "shortBio" : "Bryan is the CEO of Republiq Group of Companies (RGC)",
+      "order" : 15,
+      "title" : "CEO"
+    },
+    "chelle_gray" : {
+      "bio" : "Chelle is a Director of Growth at Thinking Machines Data Science. She manages people growth and business model growth. She has also started a community for women in tech six years ago. A community which will create more visibility for women excelling in stem. Which will also serve as a support group where you can learn or start a career in tech. She has also supported and inspired local communities which paved so many opportunities to professionals and created a huge impact globally.",
+      "company" : "Thinking Machines Data Science",
+      "companyLogo" : "/images/logos/thinking-machines.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Fthinking-machine.jpg?alt=media&token=22c60c48-9648-4baf-9949-93833e21f52f",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Chelle Gray",
+      "photo" : "/images/people/chelle-gray",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fchelle-gray.jpg?alt=media&token=298fce70-e0ad-4261-ab6b-83fe9cae655c",
+      "shortBio" : "Chelle is a Director of Growth at Thinking Machines Data Science.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/chelleogray/",
+        "name" : "LinkedIn"
+      } ],
+      "order" : 16,
+      "title" : "Director of Growth"
+    },
+    "dave_overton" : {
+      "bio" : "Dave is the Founder and CEO of Symph – a design, development and digital marketing studio in Cebu City, Philippines. Symph designs and develops for brands and startups and creates awesome things that people love. Prior to starting Symph, Dave was the CIO at Bigfoot – a media and entertainment company – where he oversaw all technology and digital media assets. He is passionate about creating and empowering startups and working on products that have a capacity to make the world a better place. Dave has a BA in International Economics from San Diego State University.",
+      "company" : "Symph",
+      "companyLogo" : "/images/logos/symph.svg",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Fsymph.svg?alt=media&token=215286e6-028a-4b1a-a6d0-7d0949289258",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Dave Overton",
+      "photo" : "/images/people/dave-overton.png",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fdave-overton.jpg?alt=media&token=8c97a761-94ba-4d2a-bc43-868ff7439f4a",
+      "shortBio" : "Dave is the Founder and CEO of Symph",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://ph.linkedin.com/in/daveove",
+        "name" : "LinkedIn"
+      } ],
+      "order" : 17,
+      "title" : "Founder and CEO"
+    },
+    "francis_alturas" : {
+      "bio" : "Francis designs interfaces and experiences that are usable & delightful for human beings. He also facilitates design sprints, brand startups, write frontend code, give talks and also help organize creative events in the local community.",
+      "company" : "",
+      "companyLogo" : "/images/logos/",
+      "companyLogoUrl" : "",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Francis Alturas",
+      "photo" : "/images/people/francis-alturas.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Ffrancis-alturas.jpg?alt=media&token=c4ae245c-938f-4efe-9279-2c968c18ef08",
+      "shortBio" : "Francis designs interfaces and experiences that are usable & delightful for human beings.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://ph.linkedin.com/in/francisalturas",
+        "name" : "LinkedIn"
+      } ],
+      "order" : 18,
+      "title" : ""
+    },
+    "genesis_rana" : {
+      "bio" : "Genesis revolutionized education for all. From an underfunded and unrecognized school to a world-class school recognized by Apple for leadership, innovation and educational excellence - in three years. It is one of the first 3 schools recognized in the Philippines and one of only 400 schools worldwide. He also founded UV News School of Art & Design in 2012.",
+      "company" : "UVNS",
+      "companyLogo" : "/images/logos/uvns.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Fuvns.png?alt=media&token=93b9bfa3-d6a8-4a8a-8402-8ce1bb96e278",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Genesis Rana",
+      "photo" : "/images/people/genesis-rana.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fgenesis-rana.jpg?alt=media&token=2ae6784b-8fa4-4e48-9beb-e3f7a99a4aeb",
+      "shortBio" : "Genesis revolutionized education for all.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://ph.linkedin.com/in/genesis-ra%C3%B1a-09a28934",
+        "name" : "LinkedIn"
+      } ],
+      "order" : 19,
+      "title" : "Founder"
+    },
+    "hilary_overton" : {
+      "bio" : "Hilary is the Founder/CEO of Glory Reborn Organization. A registered 501(c)(3) charity in the United States of America. In Cebu City, Philippines it is a charity lying-in, birthing center licensed by the Department of Health (DOH) and accredited by PhilHealth. The Organization also employs over 30 local, Filipino staff providing high quality employment, offers furthering education for bachelor’s and master’s degrees for their multiple employees and has furthered certificates with DOH for BEMONC and Family Planning to all of their medical staffs.",
+      "company" : "Glory Reborn Organization",
+      "companyLogo" : "/images/logos/glory-reborn.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Fglory-reborn.png?alt=media&token=9aefb021-cdf7-4ff0-a292-2586c81dd122",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Hilary Overton",
+      "photo" : "/images/people/hilary-overton.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fhilary-overton.jpg?alt=media&token=f408b708-24ee-4067-bee4-6b091cc41ff1",
+      "shortBio" : "Hilary is the Founder/CEO of Glory Reborn Organization.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://ph.linkedin.com/in/hilary-overton-29636b168",
+        "name" : "LinkedIn"
+      } ],
+      "order" : 20,
+      "title" : "Founder and CEO"
+    },
+    "laurice_chiongbian" : {
+      "bio" : "Laurice is an experienced Chief Executive Officer with a demonstrated history of organizational leadership and market positioning across diverse industries, ranging from healthcare to luxury and entertainment. Strong entrepreneurship professional skilled in Bootstrapping Finance, Content Marketing, Organizational Development and Business Development.",
+      "company" : "Qavalo",
+      "companyLogo" : "/images/logos/qavalo.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Fqavalo.png?alt=media&token=4747cce3-5468-4613-a672-2538d71a9db5",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Laurice Chiongbian",
+      "photo" : "/images/people/laurice-chiongbian.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Flaurice-chiongbian.jpg?alt=media&token=6cd4028e-3be4-45b6-b1a0-75d8e8adc61d",
+      "shortBio" : "Laurice is an experienced Chief Executive Officer with a demonstrated history of organizational leadership and market positioning across diverse industries, ranging from healthcare to luxury and entertainment.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://ph.linkedin.com/in/laurice-chiongbian-45095a3",
+        "name" : "LinkedIn"
+      } ],
+      "order" : 21,
+      "title" : "CEO"
+    },
+    "margaux_camaya" : {
+      "bio" : "Margaux works as an Associate Learning at JPMorgan Chase & Co. She coordinates with various Business Partners (Operations and Training Team) in the training programs of the business, conduct and facilitate classes as well as create/manage projects for various Card and Retail Businesses. She's also an active proponent of various Employee Engagement and Volunteer programs in the firm. And also contributed articles to the Trainer Newsletter.",
+      "company" : "JPMorgan Chase & Co",
+      "companyLogo" : "/images/logos/jp-morgan.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Fjp-morgan.png?alt=media&token=36c0129b-d493-4f12-9087-ce13d8fb1b0b",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Margaux Camaya",
+      "photo" : "/images/people/margaux-camaya.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fmargaux-camaya.jpg?alt=media&token=02741f90-f9cc-449b-af00-e92a6d1c5e9b",
+      "shortBio" : "Margaux works as an Associate Learning at JPMorgan Chase & Co.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://ph.linkedin.com/in/margaux-camaya-a6706091",
+        "name" : "LinkedIn"
+      } ],
+      "order" : 22,
+      "title" : ""
+    },
+    "ruben_licera" : {
+      "bio" : "Ruben is the CEO and Founder of ESTRAT Media Global, one of the fastest growing digital marketing company based in Cebu, Philippines, which focuses on content marketing, search engine optimisation and social media marketing.  He is a life coach, a productivity aficionado and a leadership trainer and mentor.",
+      "company" : "ESTRAT Media Global",
+      "companyLogo" : "/images/logos/estrat.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Festrat.png?alt=media&token=46c29a73-1a00-40fb-b97c-4675316517f7",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Ruben Licera",
+      "photo" : "/images/people/ruben-licera.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fruben-licera.jpg?alt=media&token=0ae3c70d-a89a-4be7-b86a-7d274d064bd7",
+      "shortBio" : "Ruben is the CEO and Founder of ESTRAT Media Global, one of the fastest growing digital marketing company based in Cebu, Philippines",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://ph.linkedin.com/in/rubenlicerajr",
+        "name" : "LinkedIn"
+      } ],
+      "order" : 23,
+      "title" : "CEO and Founder"
+    },
+    "shad_roi" : {
+      "bio" : "Shad is the Community Manager and the awesome man behind GDG Cebu. He is the key person in organizing all of GDG’s events. He is also a marketing expert which handles special operations in Symph.",
+      "company" : "Symph",
+      "companyLogo" : "/images/logos/symph.svg",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Fsymph.svg?alt=media&token=215286e6-028a-4b1a-a6d0-7d0949289258",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Shad Roi",
+      "photo" : "/images/people/shad-roi.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fshad-roi.jpg?alt=media&token=8260040f-d052-4489-83c4-e48eb3dc68ee",
+      "shortBio" : "Shad is the Community Manager and the awesome man behind GDG Cebu.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://ph.linkedin.com/in/shadroi",
+        "name" : "LinkedIn"
+      } ],
+      "order" : 24,
+      "title" : "Special Operations"
     }
   },
   "team" : [ {
