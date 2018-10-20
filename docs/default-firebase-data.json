@@ -240,293 +240,908 @@
   "schedule" : {
     "2018-10-27" : {
       "dateReadable" : "October 27",
-      "timeslots" : [ {
-        "endTime" : "09:30",
-        "sessions" : [ {
-          "items" : [ 101 ]
-        } ],
-        "startTime" : "09:00"
-      }, {
-        "endTime" : "10:00",
-        "sessions" : [ {
-          "items" : [ 102 ]
-        } ],
-        "startTime" : "09:30"
-      }, {
-        "endTime" : "10:30",
-        "sessions" : [ {
-          "items" : [ 103 ]
-        } ],
-        "startTime" : "10:00"
-      }, {
-        "endTime" : "11:00",
-        "sessions" : [ {
-          "items" : [ 104 ]
-        } ],
-        "startTime" : "10:30"
-      }, {
-        "endTime" : "11:30",
-        "sessions" : [ {
-          "items" : [ 105 ]
-        } ],
-        "startTime" : "11:00"
-      }, {
-        "endTime" : "13:00",
-        "sessions" : [ {
-          "items" : [ 106 ]
-        } ],
-        "startTime" : "12:00"
-      }, {
-        "endTime" : "13:45",
-        "sessions" : [ {
-          "items" : [ 107 ]
-        }, {
-          "items" : [ 114 ]
-        } ],
-        "startTime" : "13:00"
-      }, {
-        "endTime" : "14:30",
-        "sessions" : [ {
-          "items" : [ 108 ]
-        }, {
-          "items" : [ 115 ]
-        }, {
-          "extend" : 5,
-          "items" : [ 120 ]
-        } ],
-        "startTime" : "13:45"
-      }, {
-        "endTime" : "15:15",
-        "sessions" : [ {
-          "items" : [ 109 ]
-        }, {
-          "items" : [ 116 ]
-        } ],
-        "startTime" : "14:30"
-      }, {
-        "endTime" : "16:00",
-        "sessions" : [ {
-          "items" : [ 110 ]
-        }, {
-          "items" : [ 117 ]
-        } ],
-        "startTime" : "15:15"
-      }, {
-        "endTime" : "16:45",
-        "sessions" : [ {
-          "items" : [ 111 ]
-        }, {
-          "items" : [ 118 ]
-        } ],
-        "startTime" : "16:00"
-      }, {
-        "endTime" : "17:30",
-        "sessions" : [ {
-          "items" : [ 112 ]
-        }, {
-          "items" : [ 119 ]
-        }, {
-          "items" : [ ]
-        } ],
-        "startTime" : "16:45"
-      }, {
-        "endTime" : "18:15",
-        "sessions" : [ {
-          "items" : [ 113 ]
-        }, {
-          "items" : [ ]
-        }, {
-          "items" : [ ]
-        } ],
-        "startTime" : "17:30"
-      } ],
+      "timeslots" : [
+        {
+          "startTime": "9:00",
+          "endTime": "9:30",
+          "sessions": [
+            {
+              "items": [
+                101
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "9:30",
+          "endTime": "10:00",
+          "sessions": [
+            {
+              "items": [
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "10:30",
+          "sessions": [
+            {
+              "items": [
+                103
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "10:30",
+          "endTime": "11:00",
+          "sessions": [
+            {
+              "items": [
+                104
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "11:00",
+          "endTime": "11:30",
+          "sessions": [
+            {
+              "items": [
+                105
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "11:30",
+          "endTime": "12:00",
+          "sessions": [
+            {
+              "items": [
+                106
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "12:00",
+          "endTime": "13:00",
+          "sessions": [
+            {
+              "items": [
+                107
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": "13:00",
+          "endTime": "13:15",
+          "sessions": [
+            {
+              "items": [
+                108
+              ],
+              "extend": 3
+            },
+            {
+              "items": [
+                115
+              ],
+              "extend": 3
+            },
+            {
+              "items": [
+                121
+              ]
+            },
+            {
+              "items": [
+                128
+              ],
+              "extend": 4
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "13:15",
+          "endTime": "13:30",
+          "sessions": [
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": [
+                122
+              ],
+              "extend": 2
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "13:30",
+          "endTime": "13:45",
+          "sessions": [
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "13:45",
+          "endTime": "14:00",
+          "sessions": [
+            {
+              "items": [
+                109
+              ],
+              "extend": 3
+            },
+            {
+              "items": [
+                116
+              ],
+              "extend": 3
+            },
+            {
+              "items": [
+                123
+              ],
+              "extend": 3
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "14:15",
+          "sessions": [
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": [
+                129
+              ],
+              "extend": 4
+            },
+            {
+              "items": [
+                132
+              ],
+              "extend": 12
+            }
+          ]
+        },
+        {
+          "startTime": "14:15",
+          "endTime": "14:30",
+          "sessions": [
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "14:30",
+          "endTime": "14:45",
+          "sessions": [
+            {
+              "items": [
+                110
+              ],
+              "extend": 3
+            },
+            {
+              "items": [
+                117
+              ],
+              "extend": 3
+            },
+            {
+              "items": [
+                124
+              ],
+              "extend": 3
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "14:45",
+          "endTime": "15:00",
+          "sessions": [
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "15:00",
+          "endTime": "15:15",
+          "sessions": [
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": [
+                130
+              ],
+              "extend": 4
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "15:15",
+          "endTime": "15:30",
+          "sessions": [
+            {
+              "items": [
+                111
+              ],
+              "extend": 3
+            },
+            {
+              "items": [
+                118
+              ],
+              "extend": 3
+            },
+            {
+              "items": [
+                125
+              ],
+              "extend": 3
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "15:30",
+          "endTime": "15:45",
+          "sessions": [
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "15:45",
+          "endTime": "16:00",
+          "sessions": [
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "16:00",
+          "endTime": "16:15",
+          "sessions": [
+            {
+              "items": [
+                112
+              ],
+              "extend": 3
+            },
+            {
+              "items": [
+                119
+              ],
+              "extend": 3
+            },
+            {
+              "items": [
+                126
+              ],
+              "extend": 3
+            },
+            {
+              "items": [
+                131
+              ],
+              "extend": 4
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "16:15",
+          "endTime": "16:30",
+          "sessions": [
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "16:30",
+          "endTime": "16:45",
+          "sessions": [
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "16:45",
+          "endTime": "17:00",
+          "sessions": [
+            {
+              "items": [
+                113
+              ],
+              "extend": 4
+            },
+            {
+              "items": [
+                120
+              ],
+              "extend": 3
+            },
+            {
+              "items": [
+                127
+              ],
+              "extend": 3
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "17:00",
+          "endTime": "17:15",
+          "sessions": [
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "17:15",
+          "endTime": "17:30",
+          "sessions": [
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        },
+        {
+          "startTime": "17:30",
+          "endTime": "17:45",
+          "sessions": [
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            },
+            {
+              "items": []
+            }
+          ]
+        }
+      ],
       "tracks" : [ {
-        "title" : "Summit Hall A"
+        "title" : "Main Hall"
       }, {
-        "title" : "Summit Hall B"
+        "title" : "Mid Hall"
+      }, {
+        "title" : "GBG Hall"
+      }, {
+        "title" : "Meeting Room A"
       }, {
         "title" : "Meeting Room B"
       } ]
     }
   },
   "sessions" : {
-    "101" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ ],
-      "tags" : [ "Keynote" ],
-      "title" : "Developer Keynote"
+    "101": {
+      "language": "English",
+      "speakers": [
+        "yohan_totting"
+      ],
+      "tags": [
+        "Keynote",
+        "Development"
+      ],
+      "title": "Keynote: Google Developer Keynote"
     },
-    "102" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ ],
-      "tags" : [ "Keynote" ],
-      "title" : "Entrepreneurship Keynote"
+    "102": {
+      "language": "English",
+      "speakers": [
+        ""
+      ],
+      "tags": [
+        "Keynote",
+        "Entrepreneurship"
+      ],
+      "title": "Keynote: Entrepreneurship Keynote"
     },
-    "103" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ ],
-      "tags" : [ "Keynote" ],
-      "title" : "Accenture Keynote"
+    "103": {
+      "language": "English",
+      "speakers": [
+        "arvin_yason"
+      ],
+      "tags": [
+        "Keynote",
+        "Sponsored"
+      ],
+      "title": "Keynote: Disrupting Technology: Key Learnings from the Accenture Liquid Studio Network"
     },
-    "104" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ ],
-      "tags" : [ "Panel" ],
-      "title" : "Panel: The Future of Development"
+    "104": {
+      "language": "English",
+      "speakers": [
+        "chelle_gray",
+        "arvin_yason",
+        "yohan_totting",
+        "gerb_inajada",
+        "albert_padin"
+      ],
+      "tags": [
+        "Panel",
+        "Development"
+      ],
+      "title": "Panel: The Future of Software Development"
     },
-    "105" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ ],
-      "tags" : [ "Panel" ],
-      "title" : "Panel: The Future of Entrepreneurship"
+    "105": {
+      "language": "English",
+      "speakers": [
+        "albert_padin",
+        "dave_overton",
+        "genesis_rana",
+        "bryan_yap"
+      ],
+      "tags": [
+        "Panel",
+        "Entrepreneurship"
+      ],
+      "title": "Panel: The Future of Business"
     },
-    "106" : {
-      "complexity" : "",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ ],
-      "tags" : [ ],
-      "title" : "Lunch Break"
+    "106": {
+      "language": "English",
+      "speakers": [
+        "shad_roi"
+      ],
+      "tags": [
+        ""
+      ],
+      "title": "Morning Session Remarks & Group Photo"
     },
-    "107" : {
-      "complexity" : "Intermediate",
-      "description" : "",
-      "extend" : 2,
-      "language" : "English",
-      "speakers" : [ "sam_witteveen", "martin_andrews" ],
-      "tags" : [ "Machine Learning" ],
-      "title" : "TensorFlow"
+    "107": {
+      "language": "English",
+      "speakers": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "title": "Lunch"
     },
-    "108" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ "divon_lan" ],
-      "tags" : [ "Development" ],
-      "title" : "Developing Softwares for Developing Countries"
+    "108": {
+      "language": "English",
+      "speakers": [
+        "sam_witteveen",
+        "martin_andrews"
+      ],
+      "tags": [
+        "Machine Learning"
+      ],
+      "title": "TensorFlow"
     },
-    "109" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ "julius_uy" ],
-      "tags" : [ "Development" ],
-      "title" : "Software Engineering"
+    "109": {
+      "language": "English",
+      "speakers": [
+        "divon_lan"
+      ],
+      "tags": [
+        "Development"
+      ],
+      "title": "How to scale a product across developing countries"
     },
-    "110" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ ],
-      "tags" : [ "Panel" ],
-      "title" : "Panel: Discussion on Software Engineering"
+    "110": {
+      "language": "English",
+      "speakers": [
+        "julius_uy"
+      ],
+      "tags": [
+        "Development"
+      ],
+      "title": "Software Engineering"
     },
-    "111" : {
-      "complexity" : "Intermediate",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ "hassan_abid" ],
-      "tags" : [ "Android" ],
-      "title" : "Android Jetpack"
+    "111": {
+      "language": "English",
+      "speakers": [
+        "chelle_gray",
+        "divon_lan",
+        "julius_uy"
+      ],
+      "tags": [
+        "Panel",
+        "Development"
+      ],
+      "title": "Panel: Running a Software Team"
     },
-    "112" : {
-      "complexity" : "Intermediate",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ "albert_padin" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Google Cloud API"
+    "112": {
+      "language": "English",
+      "speakers": [
+        "hassan_abid"
+      ],
+      "tags": [
+        "Android"
+      ],
+      "title": "Modern Android development with Android Jetpack and Kotlin"
     },
-    "113" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ ],
-      "tags" : [ "Panel" ],
-      "title" : "Panel Discussion"
+    "113": {
+      "language": "English",
+      "speakers": [
+        "albert_padin"
+      ],
+      "tags": [
+        "Cloud"
+      ],
+      "title": "Google Cloud Web Sampler - Live coding a little bit of everything"
     },
-    "114" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ ],
-      "tags" : [ "Sponsored" ],
-      "title" : "Sponsor Open Talk"
+    "114": {
+      "language": "English",
+      "speakers": [
+        "shad_roi"
+      ],
+      "tags": [
+        ""
+      ],
+      "title": "Raffle and Closing Remarks"
     },
-    "115" : {
-      "complexity" : "Intermediate",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ "gerb_inajada" ],
-      "tags" : [ "Tech" ],
-      "title" : "Blockchains"
+    "115": {
+      "language": "English",
+      "speakers": [
+        "nep_cruz"
+      ],
+      "tags": [
+        "Blockchain"
+      ],
+      "title": "Introduction to Blockchains"
     },
-    "116" : {
-      "complexity" : "Intermediate",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ "johnny_benitez" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Google AutoML Vision"
+    "116": {
+      "language": "English",
+      "speakers": [
+        "gerb_inajada"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "A Decentralized Web"
     },
-    "117" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ "henry_lim" ],
-      "tags" : [ "Web" ],
-      "title" : "Firebase"
+    "117": {
+      "language": "English",
+      "speakers": [
+        "johnny_benitez"
+      ],
+      "tags": [
+        "Cloud"
+      ],
+      "title": "Google Cloud AutoML Vision"
     },
-    "118" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ "henry_lim" ],
-      "tags" : [ "Web" ],
-      "title" : "What's new in the Web"
+    "118": {
+      "language": "English",
+      "speakers": [
+        "henry_lim"
+      ],
+      "tags": [
+        "Firebase"
+      ],
+      "title": "Bringing Firebase Admin SDK to your server"
     },
-    "119" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ "hassan_abid" ],
-      "tags" : [ "Android" ],
-      "title" : "AR.core"
+    "119": {
+      "language": "English",
+      "speakers": [
+        "henry_lim"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "Building a Better Web for Everyone"
     },
-    "120" : {
-      "complexity" : "Intermediate",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ "sam_witteveen", "martin_andrews" ],
-      "tags" : [ "Machine Learning" ],
-      "title" : "Machine Learning and Deep Learning"
+    "120": {
+      "language": "English",
+      "speakers": [
+        "hassan_abid"
+      ],
+      "tags": [
+        "Augmented Reality"
+      ],
+      "title": "AR.core"
     },
-    "121" : {
-      "complexity" : "Intermediate",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ "nep_cruz" ],
-      "tags" : [ ],
-      "title" : "Let's talk about Blockchains"
+    "121": {
+      "language": "English",
+      "speakers": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "title": "Google Launchpad"
     },
-    "122" : {
-      "complexity" : "Intermediate",
-      "description" : "",
-      "language" : "English",
-      "speakers" : [ "arvin_yason" ],
-      "tags" : [ ],
-      "title" : "Disrupting Technology: Key Learnings from the Accenture Liquid Studio Network"
+    "122": {
+      "language": "English",
+      "speakers": [
+        "dave_overton"
+      ],
+      "tags": [
+        ""
+      ],
+      "title": "Efficiency in Business using Technology"
+    },
+    "123": {
+      "language": "English",
+      "speakers": [
+        "johnny_benitez"
+      ],
+      "tags": [
+        ""
+      ],
+      "title": "Bring the Power of Google to  Your Business"
+    },
+    "124": {
+      "language": "English",
+      "speakers": [
+        "ruben_licera"
+      ],
+      "tags": [
+        ""
+      ],
+      "title": "Importance of Branding for your Business"
+    },
+    "125": {
+      "language": "English",
+      "speakers": [
+        "david_cua"
+      ],
+      "tags": [
+        ""
+      ],
+      "title": "How to make a social media star"
+    },
+    "126": {
+      "language": "English",
+      "speakers": [
+        "chelle_gray",
+        "hilary_overton",
+        "laurice_chiongbian",
+        "margaux_camaya"
+      ],
+      "tags": [
+        "Panel"
+      ],
+      "title": "Panel: Women of the Future"
+    },
+    "127": {
+      "language": "English",
+      "speakers": [
+        "brian_padilla"
+      ],
+      "tags": [
+        ""
+      ],
+      "title": "Google Adwords"
+    },
+    "128": {
+      "language": "English",
+      "speakers": [
+        "albert_padin"
+      ],
+      "tags": [
+        "Entrepreneurship"
+      ],
+      "title": "Crash Course: Starting a Startup - Ideation and Problem Validation"
+    },
+    "129": {
+      "language": "English",
+      "speakers": [
+        "francis_alturas"
+      ],
+      "tags": [
+        "Entrepreneurship"
+      ],
+      "title": "Crash Course: Starting a Startup - User Research and Idea Validation"
+    },
+    "130": {
+      "language": "English",
+      "speakers": [
+        "ashley_uy"
+      ],
+      "tags": [
+        "Entrepreneurship"
+      ],
+      "title": "Crash Course: Starting a Startup - Product Market Fit and Product Validation"
+    },
+    "131": {
+      "language": "English",
+      "speakers": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "title": "Crash Course: Starting a Startup - Go-to Market Strategy"
+    },
+    "132": {
+      "language": "English",
+      "speakers": [
+        "sam_witteveen",
+        "martin_andrews"
+      ],
+      "tags": [
+        "Machine Learning"
+      ],
+      "title": "Introduction to Deep Learning with TensorFlow Workshop"
     }
   },
   "speakers" : {
