@@ -242,12 +242,23 @@
       "dateReadable" : "October 27",
       "timeslots" : [
         {
+          "startTime": "8:50",
+          "endTime": "9:00",
+          "sessions": [
+            {
+              "items": [
+                101
+              ]
+            }
+          ]
+        },
+        {
           "startTime": "9:00",
           "endTime": "9:30",
           "sessions": [
             {
               "items": [
-                101
+                102
               ]
             }
           ]
@@ -258,7 +269,7 @@
           "sessions": [
             {
               "items": [
-                102
+                103
               ]
             }
           ]
@@ -269,7 +280,7 @@
           "sessions": [
             {
               "items": [
-                103
+                104
               ]
             }
           ]
@@ -280,7 +291,7 @@
           "sessions": [
             {
               "items": [
-                104
+                105
               ]
             }
           ]
@@ -291,7 +302,7 @@
           "sessions": [
             {
               "items": [
-                105
+                106
               ]
             }
           ]
@@ -302,7 +313,7 @@
           "sessions": [
             {
               "items": [
-                106
+                107
               ]
             }
           ]
@@ -313,7 +324,7 @@
           "sessions": [
             {
               "items": [
-                107
+                108
               ]
             }
           ]
@@ -324,24 +335,25 @@
           "sessions": [
             {
               "items": [
-                108
+                109
               ],
               "extend": 3
             },
             {
               "items": [
-                115
+                116
               ],
               "extend": 3
             },
             {
               "items": [
-                121
-              ]
+                122
+              ],
+              "extend": 1
             },
             {
               "items": [
-                128
+                129
               ],
               "extend": 4
             },
@@ -362,9 +374,9 @@
             },
             {
               "items": [
-                122
+                123
               ],
-              "extend": 2
+              "extend": 3
             },
             {
               "items": []
@@ -401,21 +413,18 @@
           "sessions": [
             {
               "items": [
-                109
+                110
               ],
               "extend": 3
             },
             {
               "items": [
-                116
+                117
               ],
               "extend": 3
             },
             {
-              "items": [
-                123
-              ],
-              "extend": 3
+              "items": []
             },
             {
               "items": []
@@ -436,17 +445,20 @@
               "items": []
             },
             {
-              "items": []
+              "items": [
+                124
+              ],
+              "extend": 3
             },
             {
               "items": [
-                129
+                130
               ],
               "extend": 4
             },
             {
               "items": [
-                132
+                133
               ],
               "extend": 12
             }
@@ -479,21 +491,18 @@
           "sessions": [
             {
               "items": [
-                110
+                111
               ],
               "extend": 3
             },
             {
               "items": [
-                117
+                118
               ],
               "extend": 3
             },
             {
-              "items": [
-                124
-              ],
-              "extend": 3
+              "items": []
             },
             {
               "items": []
@@ -514,7 +523,10 @@
               "items": []
             },
             {
-              "items": []
+              "items": [
+                125
+              ],
+              "extend": 3
             },
             {
               "items": []
@@ -539,7 +551,7 @@
             },
             {
               "items": [
-                130
+                131
               ],
               "extend": 4
             },
@@ -554,21 +566,18 @@
           "sessions": [
             {
               "items": [
-                111
+                112
               ],
               "extend": 3
             },
             {
               "items": [
-                118
+                119
               ],
               "extend": 3
             },
             {
-              "items": [
-                125
-              ],
-              "extend": 3
+              "items": []
             },
             {
               "items": []
@@ -589,7 +598,10 @@
               "items": []
             },
             {
-              "items": []
+              "items": [
+                126
+              ],
+              "extend": 3
             },
             {
               "items": []
@@ -626,25 +638,22 @@
           "sessions": [
             {
               "items": [
-                112
+                113
               ],
               "extend": 3
             },
             {
               "items": [
-                119
+                120
               ],
               "extend": 3
             },
             {
-              "items": [
-                126
-              ],
-              "extend": 3
+              "items": []
             },
             {
               "items": [
-                131
+                132
               ],
               "extend": 4
             },
@@ -664,7 +673,10 @@
               "items": []
             },
             {
-              "items": []
+              "items": [
+                127
+              ],
+              "extend": 3
             },
             {
               "items": []
@@ -701,21 +713,18 @@
           "sessions": [
             {
               "items": [
-                113
+                114
               ],
               "extend": 4
             },
             {
               "items": [
-                120
+                121
               ],
               "extend": 3
             },
             {
-              "items": [
-                127
-              ],
-              "extend": 3
+              "items": []
             },
             {
               "items": []
@@ -736,7 +745,10 @@
               "items": []
             },
             {
-              "items": []
+              "items": [
+                128
+              ],
+              "extend": 2
             },
             {
               "items": []
@@ -787,6 +799,27 @@
               "items": []
             }
           ]
+        },
+        {
+          "startTime": "17:45",
+          "endTime": "18:00",
+          "sessions": [
+            {
+              "items": [
+                115
+              ],
+              "extend": 2
+            }
+          ]
+        },
+        {
+          "startTime": "18:00",
+          "endTime": "18:15",
+          "sessions": [
+            {
+              "items": []
+            }
+          ]
         }
       ],
       "tracks" : [ {
@@ -806,6 +839,16 @@
     "101": {
       "language": "English",
       "speakers": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "title": "Opening and Introduction"
+    },
+    "102": {
+      "language": "English",
+      "speakers": [
         "yohan_totting"
       ],
       "tags": [
@@ -814,7 +857,7 @@
       ],
       "title": "Keynote: Google Developer Keynote"
     },
-    "102": {
+    "103": {
       "language": "English",
       "speakers": [
         ""
@@ -823,9 +866,9 @@
         "Keynote",
         "Entrepreneurship"
       ],
-      "title": "Keynote: Entrepreneurship Keynote"
+      "title": "Keynote: Entrepreneuship Keynote"
     },
-    "103": {
+    "104": {
       "language": "English",
       "speakers": [
         "arvin_yason"
@@ -836,14 +879,15 @@
       ],
       "title": "Keynote: Disrupting Technology: Key Learnings from the Accenture Liquid Studio Network"
     },
-    "104": {
+    "105": {
       "language": "English",
       "speakers": [
         "chelle_gray",
         "arvin_yason",
         "yohan_totting",
         "gerb_inajada",
-        "albert_padin"
+        "albert_padin",
+        "julius_uy"
       ],
       "tags": [
         "Panel",
@@ -851,7 +895,7 @@
       ],
       "title": "Panel: The Future of Software Development"
     },
-    "105": {
+    "106": {
       "language": "English",
       "speakers": [
         "albert_padin",
@@ -861,11 +905,11 @@
       ],
       "tags": [
         "Panel",
-        "Entrepreneurship"
+        "Entrepreneuship"
       ],
       "title": "Panel: The Future of Business"
     },
-    "106": {
+    "107": {
       "language": "English",
       "speakers": [
         "shad_roi"
@@ -873,9 +917,9 @@
       "tags": [
         ""
       ],
-      "title": "Morning Session Remarks & Group Photo"
+      "title": "Morning Session Remarks and Group Photo"
     },
-    "107": {
+    "108": {
       "language": "English",
       "speakers": [
         ""
@@ -885,7 +929,7 @@
       ],
       "title": "Lunch"
     },
-    "108": {
+    "109": {
       "language": "English",
       "speakers": [
         "sam_witteveen",
@@ -894,62 +938,62 @@
       "tags": [
         "Machine Learning"
       ],
-      "title": "TensorFlow"
+      "title": "What's New in Machine Learning and TensorFlow"
     },
-    "109": {
+    "110": {
       "language": "English",
       "speakers": [
         "divon_lan"
       ],
       "tags": [
-        "Development"
+        "Software Development"
       ],
       "title": "How to scale a product across developing countries"
-    },
-    "110": {
-      "language": "English",
-      "speakers": [
-        "julius_uy"
-      ],
-      "tags": [
-        "Development"
-      ],
-      "title": "Software Engineering"
     },
     "111": {
       "language": "English",
       "speakers": [
-        "chelle_gray",
-        "divon_lan",
         "julius_uy"
       ],
       "tags": [
-        "Panel",
-        "Development"
+        "Software Development"
       ],
-      "title": "Panel: Running a Software Team"
+      "title": "Software Engineering Leadership and Management: Maximizing Leverage from Axioms to Unknowns"
     },
     "112": {
       "language": "English",
       "speakers": [
-        "hassan_abid"
+        "chelle_gray",
+        "divon_lan",
+        "julius_uy",
+        "dave_overton"
+      ],
+      "tags": [
+        "Panel"
+      ],
+      "title": "Panel: Running a Software Team"
+    },
+    "113": {
+      "language": "English",
+      "speakers": [
+        "andrew_kurniadi"
       ],
       "tags": [
         "Android"
       ],
-      "title": "Modern Android development with Android Jetpack and Kotlin"
+      "title": "Modern Android Development"
     },
-    "113": {
+    "114": {
       "language": "English",
       "speakers": [
         "albert_padin"
       ],
       "tags": [
-        "Cloud"
+        "Google Cloud"
       ],
       "title": "Google Cloud Web Sampler - Live coding a little bit of everything"
     },
-    "114": {
+    "115": {
       "language": "English",
       "speakers": [
         "shad_roi"
@@ -959,37 +1003,17 @@
       ],
       "title": "Raffle and Closing Remarks"
     },
-    "115": {
+    "116": {
       "language": "English",
       "speakers": [
         "nep_cruz"
       ],
       "tags": [
-        "Blockchain"
+        "Blockchains"
       ],
       "title": "Introduction to Blockchains"
     },
-    "116": {
-      "language": "English",
-      "speakers": [
-        "gerb_inajada"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "A Decentralized Web"
-    },
     "117": {
-      "language": "English",
-      "speakers": [
-        "johnny_benitez"
-      ],
-      "tags": [
-        "Cloud"
-      ],
-      "title": "Google Cloud AutoML Vision"
-    },
-    "118": {
       "language": "English",
       "speakers": [
         "henry_lim"
@@ -997,9 +1021,39 @@
       "tags": [
         "Firebase"
       ],
-      "title": "Bringing Firebase Admin SDK to your server"
+      "title": "Bringing Firebase Admin SDK to Your Server"
+    },
+    "118": {
+      "language": "English",
+      "speakers": [
+        "johnny_benitez"
+      ],
+      "tags": [
+        "Google Cloud"
+      ],
+      "title": "Google Cloud AudoML Vision"
     },
     "119": {
+      "language": "English",
+      "speakers": [
+        "gerb_inajada"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "Web3: A Decentralized Web"
+    },
+    "120": {
+      "language": "English",
+      "speakers": [
+        "yohan_totting"
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "Progressive Experience Web Development"
+    },
+    "121": {
       "language": "English",
       "speakers": [
         "henry_lim"
@@ -1009,35 +1063,15 @@
       ],
       "title": "Building a Better Web for Everyone"
     },
-    "120": {
-      "language": "English",
-      "speakers": [
-        "hassan_abid"
-      ],
-      "tags": [
-        "Augmented Reality"
-      ],
-      "title": "AR.core"
-    },
-    "121": {
-      "language": "English",
-      "speakers": [
-        ""
-      ],
-      "tags": [
-        ""
-      ],
-      "title": "Google Launchpad"
-    },
     "122": {
       "language": "English",
       "speakers": [
-        "dave_overton"
-      ],
-      "tags": [
         ""
       ],
-      "title": "Efficiency in Business using Technology"
+      "tags": [
+        "Business"
+      ],
+      "title": "Google Launchpad"
     },
     "123": {
       "language": "English",
@@ -1045,31 +1079,41 @@
         "johnny_benitez"
       ],
       "tags": [
-        ""
+        "Business"
       ],
-      "title": "Bring the Power of Google to  Your Business"
+      "title": "Bring the Power of Google to Your Business"
     },
     "124": {
       "language": "English",
       "speakers": [
-        "ruben_licera"
+        "brian_padilla"
       ],
       "tags": [
-        ""
+        "Business"
       ],
-      "title": "Importance of Branding for your Business"
+      "title": "Google Adwords"
     },
     "125": {
       "language": "English",
       "speakers": [
-        "david_cua"
+        "dave_overton"
       ],
       "tags": [
-        ""
+        "Business"
       ],
-      "title": "How to make a social media star"
+      "title": "Efficiency in Business with Technology"
     },
     "126": {
+      "language": "English",
+      "speakers": [
+        "dara_ever_juan"
+      ],
+      "tags": [
+        "Sponsored"
+      ],
+      "title": "Helping Filipinos build, innovate and scale with PLDT Innolab"
+    },
+    "127": {
       "language": "English",
       "speakers": [
         "chelle_gray",
@@ -1078,21 +1122,22 @@
         "margaux_camaya"
       ],
       "tags": [
-        "Panel"
+        "Panel",
+        "Business"
       ],
       "title": "Panel: Women of the Future"
     },
-    "127": {
+    "128": {
       "language": "English",
       "speakers": [
-        "brian_padilla"
+        "david_cua"
       ],
       "tags": [
-        ""
+        "Business"
       ],
-      "title": "Google Adwords"
+      "title": "How to make a social media star"
     },
-    "128": {
+    "129": {
       "language": "English",
       "speakers": [
         "albert_padin"
@@ -1102,7 +1147,7 @@
       ],
       "title": "Crash Course: Starting a Startup - Ideation and Problem Validation"
     },
-    "129": {
+    "130": {
       "language": "English",
       "speakers": [
         "francis_alturas"
@@ -1112,7 +1157,7 @@
       ],
       "title": "Crash Course: Starting a Startup - User Research and Idea Validation"
     },
-    "130": {
+    "131": {
       "language": "English",
       "speakers": [
         "ashley_uy"
@@ -1122,17 +1167,17 @@
       ],
       "title": "Crash Course: Starting a Startup - Product Market Fit and Product Validation"
     },
-    "131": {
+    "132": {
       "language": "English",
       "speakers": [
-        ""
+        "shad_roi"
       ],
       "tags": [
-        ""
+        "Entrepreneurship"
       ],
       "title": "Crash Course: Starting a Startup - Go-to Market Strategy"
     },
-    "132": {
+    "133": {
       "language": "English",
       "speakers": [
         "sam_witteveen",
