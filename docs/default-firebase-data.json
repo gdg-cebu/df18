@@ -1925,24 +1925,24 @@
     "starts" : "Sept 24",
     "url" : "https://www.eventbrite.com/e/devfest-x-bizfest-cebu-2018-into-the-future-registration-50588681107?aff=website#tickets"
   }, {
-    "available" : true,
+    "available" : false,
     "currency" : "₱",
     "ends" : "Oct 27",
     "info" : "",
     "name" : "Barkada 4+1 Conference Passes Promo",
     "price" : 400,
-    "soldOut" : false,
+    "soldOut" : true,
     "starts" : "Oct 1",
     "url" : "https://www.eventbrite.com/e/devfest-x-bizfest-cebu-2018-into-the-future-registration-50588681107?aff=website#tickets"
   }, {
-    "available" : true,
+    "available" : false,
     "currency" : "₱",
     "ends" : "Oct 27",
     "inDemand" : false,
     "info" : "",
     "name" : "DevFest Early Bird Conference Pass",
     "price" : 500,
-    "soldOut" : false,
+    "soldOut" : true,
     "starts" : "Oct 1",
     "url" : "https://www.eventbrite.com/e/devfest-x-bizfest-cebu-2018-into-the-future-registration-50588681107?aff=website#tickets"
   }, {
