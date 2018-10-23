@@ -1301,42 +1301,6 @@
       "order" : 5,
       "title" : "Software Engineering Manager"
     },
-    "hassan_abid" : {
-      "badges" : [ {
-        "description" : "Google Developers Expert",
-        "link" : "https://developers.google.com/experts/people/hassan-abid",
-        "name" : "gde"
-      } ],
-      "bio" : "Hassan is a passionate Software Engineer with several years of experience in Android and Web development. He is currently based in Singapore, Where is works as Senior Client Engineer for Singapore based Live Streaming app - BeLive. Before that, He lived in Seoul where he worked for NexStreaming Corp. with the NexPlayer SDK team. He worked on KineMaster, an Android Video editing app, in the same company. He loves writing and sharing his experiences about Android development with fellow developers through blogs posts, events and conferences. When he’s not coding, he can be found hiking, running or cycling with his GoPro to record all his outdoor activities.",
-      "company" : "BeLive",
-      "companyLogo" : "/images/logos/be-live.png",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Fbe-live.png?alt=media&token=36029384-90a0-4d5c-a9d9-7c4f2f42f7d2",
-      "country" : "Singapore, Singapore",
-      "featured" : true,
-      "name" : "Hassan Abid",
-      "photo" : "/images/people/hassan-abid.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fhassan-abid.jpg?alt=media&token=66209375-a4ff-431c-81d4-5e2c31ca5da0",
-      "shortBio" : "Hassan is a passionate Software Engineer with several years of experience in Android and Web development.",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/hassanabid89/",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/114900087322925521514",
-        "name" : "Google+"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/hassanabidpk",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://hassanabid.com/",
-        "name" : "Blog"
-      } ],
-      "order" : 6,
-      "title" : "Senior Client Developer"
-    },
     "sam_witteveen" : {
       "badges" : [ {
         "description" : "Google Developer Expert",
@@ -1657,25 +1621,6 @@
       "order" : 22,
       "title" : ""
     },
-    "ruben_licera" : {
-      "bio" : "Ruben is the CEO and Founder of ESTRAT Media Global, one of the fastest growing digital marketing company based in Cebu, Philippines, which focuses on content marketing, search engine optimisation and social media marketing.  He is a life coach, a productivity aficionado and a leadership trainer and mentor.",
-      "company" : "ESTRAT Media Global",
-      "companyLogo" : "/images/logos/estrat.png",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Festrat.png?alt=media&token=46c29a73-1a00-40fb-b97c-4675316517f7",
-      "country" : "Philippines",
-      "featured" : true,
-      "name" : "Ruben Licera",
-      "photo" : "/images/people/ruben-licera.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fruben-licera.jpg?alt=media&token=0ae3c70d-a89a-4be7-b86a-7d274d064bd7",
-      "shortBio" : "Ruben is the CEO and Founder of ESTRAT Media Global, one of the fastest growing digital marketing company based in Cebu, Philippines",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://ph.linkedin.com/in/rubenlicerajr",
-        "name" : "LinkedIn"
-      } ],
-      "order" : 23,
-      "title" : "CEO and Founder"
-    },
     "shad_roi" : {
       "bio" : "Shad is the Community Manager and the awesome man behind GDG Cebu. He is the key person in organizing all of GDG’s events. He is also a marketing expert which handles special operations in Symph.",
       "company" : "Symph",
@@ -1694,6 +1639,49 @@
       } ],
       "order" : 24,
       "title" : "Special Operations"
+    },
+    "dara_ever_juan" : {
+      "bio" : "Coordinator for PLDT Innolab. Educational Background: Entrepreneurship major from University of Santo Tomas, with additional Marketing background from Ateneo Center for Continuing Education. Currently heads the partnership programs for startups, developer communities and academe. Leads the exploration of new solution breakthroughs for PLDT Enterprise. Manages open innovation programs implemented within PLDT, Smart and the MVP group.",
+      "company" : "PLDT",
+      "companyLogo" : "/images/logos/pldt.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Fpldt.png?alt=media&token=3d661779-4155-480e-a920-abdee26dd107",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Dara Ever Juan",
+      "photo" : "/images/people/dara-ever-juan.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fdara-ever-juan.jpg?alt=media&token=86040d18-716d-40ee-9b3d-ef2264d83100",
+      "shortBio" : "Research Specialist at Philippine Long Distance Telephone Company",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/kristine-dara-ever-juan-6339784b/",
+        "name" : "LinkedIn"
+      } ],
+      "order" : 25,
+      "title" : "Coordinator"
+    },
+    "andrew_kurniadi" : {
+      "badges" : [ {
+        "description" : "Google Developers Expert",
+        "link" : "https://developers.google.com/experts/people/andrew-kurniadi",
+        "name" : "gde"
+      } ],
+      "bio" : "Founded Lumio.id in 2017, a company based in Jakarta, that focuses on digital signage platform. Experienced in mobile and embedded hardware related technology for more than 15 years, both personally and professionally. Love to learn and experiment with new technologies, such as wearables, mobile (including iOS and Android) and IoT, and love to share knowledge with others.",
+      "company" : "Lumio.id",
+      "companyLogo" : "/images/logos/lumio.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Flumio.svg?alt=media&token=04e3b0ea-1a9d-424d-b400-5c3d086756db",
+      "country" : "Jakarta, Indonesia",
+      "featured" : true,
+      "name" : "Andrew Kurniadi",
+      "photo" : "/images/people/andrew-kurniadi.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fandrew-kurniadi.jpg?alt=media&token=22bc5692-008a-408d-8d72-a887e6821dd5",
+      "shortBio" : "Founded Lumio.id in 2017, a company based in Jakarta, that focuses on digital signage platform.",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/andrewkurniadi/",
+        "name" : "LinkedIn"
+      } ],
+      "order" : 26,
+      "title" : "Co-Founder and CEO"
     }
   },
   "team" : [ {
