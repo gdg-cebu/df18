@@ -233,6 +233,16 @@
       "logoUrl" : "../images/logos/utterly-random-techie.png",
       "name" : "Utterly Random Techie",
       "url" : "https://www.utterlyrandomtechie.com/"
+    }, {
+      "order" : 9,
+      "logoUrl" : "../images/logos/concept6.png",
+      "name" : "Concept 6 Studios",
+      "url" : ""
+    }, {
+      "order" : 10,
+      "logoUrl" : "../images/logos/alcordo-advertising.jpg",
+      "name" : "Alcordo Advertising",
+      "url" : ""
     } ],
     "order" : 10,
     "title" : "Media partners"
