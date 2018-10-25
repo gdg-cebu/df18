@@ -1462,21 +1462,6 @@
       "order" : 10,
       "title" : "Executive Creative Director"
     },
-    "nep_cruz" : {
-      "bio" : "ATCP Blockchain Lead and Financial Services Managing Director, Accenture",
-      "company" : "Accenture",
-      "companyLogo" : "/images/logos/accenture.png",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/partners%2FAcc_Logo_Full_Black.png?alt=media&token=1a93de6d-77ba-48d5-a25b-fa7962ca1bb5",
-      "country" : "Philippines",
-      "featured" : true,
-      "name" : "Nep Cruz",
-      "photo" : "/images/people/nep-cruz.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fnep_cruz.png?alt=media&token=2f5e6d71-e8ca-491b-9695-bcbcbc9ef72e",
-      "shortBio" : "ATCP Blockchain Lead and Financial Services Managing Director, Accenture",
-      "socials" : [ ],
-      "order" : 11,
-      "title" : "ATCP Blockchain Lead and Financial Services Managing Director"
-    },
     "arvin_yason" : {
       "bio" : "Intelligent Software Engineering Services Lead, ATCP and Liquid Studio in Manila, Managing Director",
       "company" : "Accenture",
@@ -1737,6 +1722,51 @@
       } ],
       "order" : 26,
       "title" : "Co-Founder and CEO"
+    },
+    "nannette_arbon" : {
+      "bio" : "Provincial Director at Dept of Trade and Industry-Cebu, Philippines",
+      "company" : "DTI Cebu",
+      "companyLogo" : "/images/logos/dti.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Fdti-cebu.jpg?alt=media&token=9c03701d-5942-4732-a9f2-e891cb121a1f",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Nannette Arbon",
+      "photo" : "/images/people/nannette-arbon.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fnannette-arbon.jpg?alt=media&token=0d37886e-0e26-47fd-bb08-c98b40621d64",
+      "shortBio" : "Provincial Director at Dept of Trade and Industry-Cebu, Philippines",
+      "socials" : [ ],
+      "order" : 27,
+      "title" : "Provincial Director"
+    },
+    "theresa_mae_conson" : {
+      "bio" : "Theresa Mae Conson is a digital and traditional marketing expert. She is passionate in helping other businesses grow through organizing events, media and direct marketing.",
+      "company" : "Smartie Media",
+      "companyLogo" : "/images/logos/smartie-media.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/logos%2Fsmartie-media.jpg?alt=media&token=a2dd5d6a-28d6-4252-8e30-1a8dec6167b0",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Theresa Mae Conson",
+      "photo" : "/images/people/theresa-mae-conson.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Ftheresa-mae-conson.jpg?alt=media&token=d921b721-2b5d-4aaf-ae9e-0b2fe4546a3d",
+      "shortBio" : "Theresa Mae Conson is a digital and traditional marketing expert.",
+      "socials" : [ ],
+      "order" : 28,
+      "title" : "Marketing"
+    },
+    "norwin_avila" : {
+      "bio" : "Software Engineering Manager at Accenture",
+      "company" : "Accenture",
+      "companyLogo" : "/images/logos/accenture.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/partners%2FAcc_Logo_Full_Black.png?alt=media&token=1a93de6d-77ba-48d5-a25b-fa7962ca1bb5",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Norwin Avila",
+      "photo" : "/images/people/norwin-avila.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/dfcebu18.appspot.com/o/people%2Fnorwin-avila.jpg?alt=media&token=a975f527-5b2e-4ee6-9f7e-d7262061e9ca",
+      "shortBio" : "Software Engineering Manager at Accenture",
+      "socials" : [ ],
+      "order" : 29,
+      "title" : "Software Engineering Manager"
     }
   },
   "team" : [ {
