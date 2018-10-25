@@ -257,7 +257,7 @@
           "sessions": [
             {
               "items": [
-                101
+                134
               ]
             }
           ]
@@ -268,7 +268,7 @@
           "sessions": [
             {
               "items": [
-                102
+                101
               ]
             }
           ]
@@ -279,7 +279,7 @@
           "sessions": [
             {
               "items": [
-                103
+                102
               ]
             }
           ]
@@ -848,12 +848,8 @@
   "sessions" : {
     "101": {
       "language": "English",
-      "speakers": [
-        ""
-      ],
-      "tags": [
-        ""
-      ],
+      "speakers": [],
+      "tags": [],
       "title": "Opening and Introduction"
     },
     "102": {
@@ -869,9 +865,7 @@
     },
     "103": {
       "language": "English",
-      "speakers": [
-        ""
-      ],
+      "speakers": [],
       "tags": [
         "Keynote",
         "Entrepreneurship"
@@ -909,9 +903,10 @@
       "language": "English",
       "speakers": [
         "albert_padin",
-        "dave_overton",
         "genesis_rana",
-        "bryan_yap"
+        "bryan_yap",
+        "dara_ever_juan",
+        "nannette_arbon"
       ],
       "tags": [
         "Panel",
@@ -924,19 +919,13 @@
       "speakers": [
         "shad_roi"
       ],
-      "tags": [
-        ""
-      ],
+      "tags": [],
       "title": "Morning Session Remarks and Group Photo"
     },
     "108": {
       "language": "English",
-      "speakers": [
-        ""
-      ],
-      "tags": [
-        ""
-      ],
+      "speakers": [],
+      "tags": [],
       "title": "Lunch"
     },
     "109": {
@@ -1008,20 +997,18 @@
       "speakers": [
         "shad_roi"
       ],
-      "tags": [
-        ""
-      ],
+      "tags": [],
       "title": "Raffle and Closing Remarks"
     },
     "116": {
       "language": "English",
       "speakers": [
-        "nep_cruz"
+        "norwin_avila"
       ],
       "tags": [
         "Blockchains"
       ],
-      "title": "Introduction to Blockchains"
+      "title": "Blockchain 101"
     },
     "117": {
       "language": "English",
@@ -1075,9 +1062,7 @@
     },
     "122": {
       "language": "English",
-      "speakers": [
-        ""
-      ],
+      "speakers": [],
       "tags": [
         "Business"
       ],
@@ -1096,22 +1081,22 @@
     "124": {
       "language": "English",
       "speakers": [
-        "brian_padilla"
-      ],
-      "tags": [
-        "Business"
-      ],
-      "title": "Google Adwords"
-    },
-    "125": {
-      "language": "English",
-      "speakers": [
         "dave_overton"
       ],
       "tags": [
         "Business"
       ],
-      "title": "Efficiency in Business with Technology"
+      "title": "Efficiency in Business using Technology"
+    },
+    "125": {
+      "language": "English",
+      "speakers": [
+        "brian_padilla"
+      ],
+      "tags": [
+        "Business"
+      ],
+      "title": "Google Ads"
     },
     "126": {
       "language": "English",
@@ -1129,7 +1114,8 @@
         "chelle_gray",
         "hilary_overton",
         "laurice_chiongbian",
-        "margaux_camaya"
+        "margaux_camaya",
+        "theresa_mae_conson"
       ],
       "tags": [
         "Panel",
@@ -1197,6 +1183,12 @@
         "Machine Learning"
       ],
       "title": "Introduction to Deep Learning with TensorFlow Workshop"
+    },
+    "134": {
+      "language": "English",
+      "speakers": [],
+      "tags": [],
+      "title": "Music and AVP Rolls"
     }
   },
   "speakers" : {
