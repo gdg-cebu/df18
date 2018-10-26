@@ -272,17 +272,6 @@
       "dateReadable" : "October 27",
       "timeslots" : [
         {
-          "startTime": "8:50",
-          "endTime": "9:00",
-          "sessions": [
-            {
-              "items": [
-                134
-              ]
-            }
-          ]
-        },
-        {
           "startTime": "9:00",
           "endTime": "9:30",
           "sessions": [
