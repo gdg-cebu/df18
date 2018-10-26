@@ -1998,7 +1998,7 @@
     "starts" : "Oct 1",
     "url" : "https://www.eventbrite.com/e/devfest-x-bizfest-cebu-2018-into-the-future-registration-50588681107?aff=website#tickets"
   }, {
-    "available" : true,
+    "available" : false,
     "currency" : "₱",
     "ends" : "Oct 27",
     "inDemand" : true,
@@ -2006,19 +2006,19 @@
     "name" : "DevFest Regular Conference Pass",
     "price" : 700,
     "regular" : true,
-    "soldOut" : false,
+    "soldOut" : true,
     "primary" : true,
     "starts" : "Oct 1",
     "url" : "https://www.eventbrite.com/e/devfest-x-bizfest-cebu-2018-into-the-future-registration-50588681107?aff=website#tickets"
   }, {
-    "available" : true,
+    "available" : false,
     "currency" : "₱",
     "ends" : "Oct 27",
     "inDemand" : false,
     "info" : "For Entrepreneurs, Business Owners, SMEs",
     "name" : "BizFest Conference Pass",
     "price" : 0,
-    "soldOut" : false,
+    "soldOut" : true,
     "starts" : "Oct 1",
     "url" : "https://www.eventbrite.com/e/devfest-x-bizfest-cebu-2018-into-the-future-registration-50588681107?aff=website#tickets"
   } ],
