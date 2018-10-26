@@ -146,6 +146,16 @@
       "logoUrl" : "../images/logos/bubble-tea-station.jpg",
       "name" : "Bubble Tea Station",
       "url" : "https://www.facebook.com/bubbleteastation/"
+    }, {
+      "order" : 2,
+      "logoUrl" : "../images/logos/payoneer.png",
+      "name" : "Payoneer",
+      "url" : ""
+    }, {
+      "order" : 3,
+      "logoUrl" : "../images/logos/fizzbuzz.jpg",
+      "name" : "Fizzbuzz",
+      "url" : ""
     } ],
     "order" : 7,
     "title" : "Amazing Supporter"
@@ -242,6 +252,16 @@
       "order" : 10,
       "logoUrl" : "../images/logos/alcordo-advertising.jpg",
       "name" : "Alcordo Advertising",
+      "url" : ""
+    }, {
+      "order" : 11,
+      "logoUrl" : "../images/logos/united-neon.png",
+      "name" : "United Neon Advertising Philippines",
+      "url" : ""
+    }, {
+      "order" : 12,
+      "logoUrl" : "../images/logos/adcons.png",
+      "name" : "AdCons.ph",
       "url" : ""
     } ],
     "order" : 10,
